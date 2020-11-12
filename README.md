@@ -7,4 +7,4 @@ This is a test kernel module
 * [Nombre Alumno](https://github.com/example_user) *Padwan*
 * [César Murillo](https://github.com/Cesar64100) *Padwan*
 * [Mateo Gonzalez] (https://github.com/MateoGL) *Padwan*
-
+* [Nicanor Sandoval](https://github.com/nicanorsandoval) *Padwan*
