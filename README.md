@@ -67,3 +67,9 @@ Once you get the changes you must pull them to integrate them in the branch
 ~$ git checkout your_branch
 ~$ git pull
 ```
+
+
+# References
+
+* https://education.github.com/git-cheat-sheet-education.pdf
+* https://code.visualstudio.com/docs/editor/versioncontrol
