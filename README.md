@@ -3,4 +3,4 @@ This is a test kernel module
 
 ## Team
 
-http://github.com/imcsk8
+[Iván Chavero](http://github.com/imcsk8)
