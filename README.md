@@ -10,19 +10,19 @@ This is a test kernel module
 
 ### Git Basic commands
 
-** Clone this repository **
+**Clone this repository**
 
 ```
 ~$ git clone git@github.com:Sistemas-Operativos-I-UACH/test_kernel_module.git
 ```
 
-** Use a branch other than *main* **
+**Use a branch other than *main***
 
 ```
 ~$ git checkout *yourbranch*
 ```
 
-** Add a file to next commit **
+**Add a file to next commit**
 
 Add the `README.md` file to the commit:
 
@@ -30,7 +30,7 @@ Add the `README.md` file to the commit:
 ~$ git add README.md
 ```
 
-** Commit a the changes **
+**Commit a the changes**
 ```
 ~$ git commit -m 'commit message'
 ```
@@ -41,7 +41,7 @@ or to open your favorite editor and add a more extense commit message:
 ~$ git commit
 ```
 
-** Push changes to our public github repository  **
+**Push changes to our public github repository**
 
 This team is using github.com as the public repository and the *Master Jedi* repository as the main one.
 
@@ -49,13 +49,13 @@ This team is using github.com as the public repository and the *Master Jedi* rep
 ~$ git  push
 ```
 
-** Get and integrate the latest changes of the current branch from the public git repository **
+**Get and integrate the latest changes of the current branch from the public git repository**
 
 ```
 ~$ git pull
 ```
 
-** Get all changes in all the branches **
+**Get all changes in all the branches**
 
 ```
 ~$ git fetch --all
