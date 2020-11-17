@@ -67,6 +67,16 @@ Once you get the changes you must pull them to integrate them in the branch
 ~$ git checkout your_branch
 ~$ git pull
 ```
+## Module build process
+
+### Build dependencies
+
+On a Fedora system install the `Development Tools`  and the `C Development Tools and Libraries`.
+
+```
+~$ sudo dnf groupinstall -y 'Development Tools' 'C Development Tools and Libraries'
+~$ sudo dnf install -y kernel-headers
+```
 
 
 # References
